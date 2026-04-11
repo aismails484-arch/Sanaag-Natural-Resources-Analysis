@@ -5,7 +5,7 @@
 This project is a high-impact strategic initiative aimed at industrializing the **Frankincense (Boswellia)** sector in the **Sanaag region of Somaliland**. Our mission is to move beyond the traditional export of raw resins and establish a localized, high-tech value chain. By utilizing advanced distillation and chemical analysis, we will produce premium **Frankincense Essential Oils** and luxury fragrances for the global market.
 
 ### 2. The Frankincense Opportunity
-* **Global Hub:** The Sanaag region is home to the world's most sought-after frankincense species, including *Boswellia frereana* (Maydi) and *Boswellia carterii* (Beeyo).
+* **Global Hub:** The Sanaag region is home to the world's most sought-after frankincense species, including *Boswellia frereana* (Maydi) and *Boswellia carterii* (Moxor).
 * **Industrialization Gap:** Currently, the majority of the value is captured by international processors. This project brings the laboratory and refinery to the source.
 * **Economic Leverage:** Raw frankincense resins are transformed into high-value oils, increasing the export value per kilogram by over 1,000%.
 
