@@ -41,7 +41,6 @@ For detailed insights into each phase, please refer to the following modules:
 
 
 ---
-**Institutional Identifier:** 30019622947689  
-**Lead Organization:** SPH Global Research  
-**Region:** Sanaag, Somaliland  
-**Status:** Investment-Ready / Phase I Active  
+---
+### Contact & Administration
+**Ahmed Ismail Saed Hussein** *Founder, CEO & Director, SPH Global Research* [Portal Access](https://sph-institutional-repository-v2.vercel.app) | [Institutional ID: 30019622947689]
