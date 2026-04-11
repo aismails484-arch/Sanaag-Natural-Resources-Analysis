@@ -30,10 +30,15 @@ The project is governed by a robust **Institutional Legal Framework (Xeer)** con
 * Mandate sustainable harvesting to protect the *Boswellia* forests for future generations.
 * Establish a fair-trade ecosystem for local collectors and stakeholders.
 
-### 6. Repository Organization
-* `/investment_docs`: Financial models, market ROI, and Frankincense sector analysis.
-* `/legal_framework`: Governance articles and environmental sustainability charters.
-* `/technical_specs`: Distillation equipment requirements and laboratory blueprints.
+### 6. Repository Organization & Documentation
+For detailed insights into each phase, please refer to the following modules:
+
+* [Institutional & Legal Framework](./LEGAL_GOVERNANCE.md) - Governance and Somaliland Law compliance.
+* [Technical Specifications](./TECH_SPECS_LAB.md) - Laboratory setup and distillation technology.
+* [Investment & Financial Roadmap](./INVESTMENT_ROADMAP.md) - Market analysis and ROI projections.
+* [Concept Note & Research](./CONCEPT_NOTE.md) - Academic rationale and vertical integration.
+* [Phase I Proposal](./Project_Proposal_Phase_I.md) - Current status and foundational audit.
+
 
 ---
 **Institutional Identifier:** 30019622947689  
