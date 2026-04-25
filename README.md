@@ -1,46 +1,6 @@
-# Strategic Investment Framework: Frankincense Industrialization
-## Premium Essential Oil & Fragrance Extraction (Sanaag Project)
-
-### 1. Executive Summary
-This project is a high-impact strategic initiative aimed at industrializing the **Frankincense (Boswellia)** sector in the **Sanaag region of Somaliland**. Our mission is to move beyond the traditional export of raw resins and establish a localized, high-tech value chain. By utilizing advanced distillation and chemical analysis, we will produce premium **Frankincense Essential Oils** and luxury fragrances for the global market.
-
-### 2. The Frankincense Opportunity
-* **Global Hub:** The Sanaag region is home to the world's most sought-after frankincense species, including *Boswellia frereana* (Maydi) and *Boswellia carterii* (Moxor).
-* **Industrialization Gap:** Currently, the majority of the value is captured by international processors. This project brings the laboratory and refinery to the source.
-* **Economic Leverage:** Raw frankincense resins are transformed into high-value oils, increasing the export value per kilogram by over 1,000%.
-
-### 3. Project Roadmap (Phases)
-
-| Phase | Focus Area | Status | Key Deliverable |
-| :--- | :--- | :--- | :--- |
-| **Phase 1** | **Foundation & Resource Audit** | **Active** | Legal Framework (Xeer), site selection, and ethical sourcing protocols. |
-| **Phase 2** | **Sanaag Laboratory (R&D)** | **Planned** | Setup of Steam Distillation units and GC-MS quality testing lab. |
-| **Phase 3** | **Production & Branding** | **Planned** | Industrial scaling and the "Royal Sanaag" luxury branding launch. |
-| **Phase 4** | **Global Market Access** | **Planned** | Direct supply contracts with global luxury perfume and pharmaceutical houses. |
-
-### 4. Technical Strategy: The Distillation Lab
-The core of our Phase II operations involves a specialized laboratory focused on:
-* **Steam Distillation:** Extracting the chemical profile of frankincense while preserving therapeutic compounds (Boswellic acids).
-* **Quality Assurance (QA):** Standardizing oil purity to meet EU and US pharmaceutical and cosmetic grades.
-* **Fragrance Formulation:** Developing ready-to-market perfume bases derived from 100% natural Sanaag frankincense.
-
-### 5. Institutional Governance & Compliance
-The project is governed by a robust **Institutional Legal Framework (Xeer)** consisting of 14 specific articles designed to:
-* Ensure secure private investment and intellectual property protection.
-* Mandate sustainable harvesting to protect the *Boswellia* forests for future generations.
-* Establish a fair-trade ecosystem for local collectors and stakeholders.
-
-### 6. Repository Organization & Documentation
-For detailed insights into each phase, please refer to the following modules:
-
-* [Institutional & Legal Framework](./LEGAL_GOVERNANCE.md) - Governance and Somaliland Law compliance.
-* [Technical Specifications](./TECH_SPECS_LAB.md) - Laboratory setup and distillation technology.
-* [Investment & Financial Roadmap](./INVESTMENT_ROADMAP.md) - Market analysis and ROI projections.
-* [Concept Note & Research](./CONCEPT_NOTE.md) - Academic rationale and vertical integration.
-* [Phase I Proposal](./Project_Proposal_Phase_I.md) - Current status and foundational audit.
-
-
----
----
-### Contact & Administration
-**Ahmed Ismail Saed Hussein** *Founder, CEO & Director, SPH Global Research* [Portal Access](https://sph-institutional-repository-v2.vercel.app) | [Institutional ID: 30019622947689]
+# Sanaag Natural Resources & Industrialization Framework
+​Organization: SPH Global Research.
+Author/Researcher: Ahmed Ismail Saed Hussein.
+### **Institutional & Project Network**
+* 🚀 **Private Portal Access:** [SPH Global Research Hub](https://sph-institutional-repository-v2.vercel.app)
+* 🔗 **All Projects:**| [Waste Phase 2](https://github.com/aismails484-arch/hargeisa-waste-management-assessment-phase-2) | [Waste Unit](https://github.com/aismails484-arch/waste-management-unit-republicofsomaliland-hargeisa) | [Rural Health](https://github.com/aismails484-arch/huluul-district-rural-health-analysis-project) | [Water Access](https://github.com/aismails484-arch/huluul-district-water-access-analysis-project) | [Agri-Scaling](https://github.com/aismails484-arch/Sanaag-Agricultural-Production-Scaling) | [Eco-Tourism](https://github.com/aismails484-arch/Sanaag-Eco-Conservation-Tourism) | [Maritime Blue Economy](https://github.com/aismails484-arch/Sanaag-Maritime-Infrastructure-Blue-Economy) | [Renewable Grid](https://github.com/aismails484-arch/Sanaag-Renewable-Energy-Grid) | [Economic Corridor](https://github.com/aismails484-arch/Sanaag-Saaxil-Economic-Tourism-Corridor) | [Robotics Hub](https://github.com/aismails484-arch/Somaliland-National-Digital-Innovation-Robotics-Hub)
